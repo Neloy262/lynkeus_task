@@ -1,0 +1,12 @@
+numpy==1.24.1
+opencv-python==4.7.0.72
+Pillow==9.3.0
+ray[serve]==2.3.1
+requests==2.28.1
+torch==2.0.0
+torchaudio==2.0.1
+torchvision==0.15.1
+ultralytics==8.0.82
+vidgear==0.3.0
+
+
