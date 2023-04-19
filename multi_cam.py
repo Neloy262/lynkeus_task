@@ -13,7 +13,7 @@ no_cam = int(input())
 for i in range(no_cam):
     print("Enter rtsp link of camera "+str(i+1))
     link = input()
-    if len(link)<4:  # This is done to use the webcam
+    if len(link)<4: 
         link = int(link)
     rtsp_links.append(link)
 
